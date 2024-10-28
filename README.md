@@ -2,5 +2,6 @@
 - Airam Herrera Plasencia
 - Enrique Hernández Cabrera
 ## Imagen del modelo relacional
-![Viveros_ADBD](https://github.com/user-attachments/assets/9caf48f2-3043-4347-b517-e357e2b3ef98)
+![Viveros_ADBD](![Viveros_ADBD](https://github.com/user-attachments/assets/5844b764-93c3-494c-a10d-9cbcab8b77fd)
+)
 ## Imagen del diseño relacional
