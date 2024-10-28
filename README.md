@@ -8,6 +8,7 @@
 
 **Cliente**(NIF, Nombre, Bonificaciones, , Fecha_ingreso, Volumen_Compra_Mensual GENERATED AS (
 **Clave Primaria (PK):** NIF
+
 ---
 **Pedidos:**(Código_pedido, importe, Fecha_pedido, Nombre_cliente, Forma_pago)
 **
