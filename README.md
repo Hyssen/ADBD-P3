@@ -6,8 +6,10 @@
 ## Imagen del diseño relacional
 **PK:** Clave primaria; **FK:** Clave Foránea/ajena
 
-**Cliente**(NIF, Nombre, Bonificaciones, , Fecha_ingreso, Volumen_Compra_Mensual GENERATED AS ())
-**Clave Primaria (PK):** NIF
+**Cliente** (NIF, Nombre, Bonificaciones, , Fecha_ingreso, Volumen_Compra_Mensual GENERATED AS ())
+**(PK):** NIF
 ___
-**Pedidos:**(Código_pedido, importe, Fecha_pedido, Nombre_cliente, Forma_pago)
-**
+**Pedidos:** (Codigo_pedido, importe, Fecha_pedido, Nombre_cliente, Forma_pago, NIF_Cliente)
+**(PK):** Codigo_pedido
+**(FK):** NIF_Cliente
+___
