@@ -22,7 +22,7 @@
 **Zona:** (Codigo_de_zona, Nombre, latitud, longitud)  
 **(PK):** Codigo_de_zona
 
-**Productos:** (Codigo_producto, Nombre, Tipo, Unidades_Totales, Stock, Unidades_Vendidas GENERATED AS (Unidades_Totales - Stock)  
+**Productos:** (Codigo_producto, Nombre, Tipo, Unidades_Totales, Stock, Unidades_Vendidas GENERATED ALWAYS AS (Unidades_Totales - Stock)  
 **(PK):** Codigo_producto
 
 **Trabaja_zona:** (NIF_Empleado, Codigo_zona, Fecha_inicio, Fecha_Final)  
