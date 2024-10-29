@@ -37,7 +37,7 @@
 **(PK):** Codigo_zona, ID_vivero  
 **(FK):** Codigo_zona, ID_vivero
 
-## Imagenes de los select de la base de datos
+## Imágenes de los select de la base de datos
 
 #### CLIENTE
 
