@@ -6,8 +6,7 @@
 ## Imagen del diseño relacional
 **PK:** Clave primaria; **FK:** Clave Foránea/ajena
 
-**Cliente** (NIF, Nombre, , Fecha_ingreso, Volumen_Compra_Mensual GENERATED ALWAYS AS (Numero_Compras / NULLIF((EXTRACT(YEAR FROM CURRENT_DATE) - EXTRACT(YEAR FROM Fecha_de_Ingreso)) * 12 + (EXTRACT(MONTH FROM CURRENT_DATE) - EXTRACT(MONTH FROM Fecha_de_Ingreso)),
-    0), Bonificaciones GENERATED ALWAYS AS(Volumen_Compra_Mensual * 0.05))  
+**Cliente** (NIF, Nombre, , Fecha_ingreso, Volumen_Compra_Mensual GENERATED ALWAYS AS (Numero_Compras / 12), Bonificaciones GENERATED ALWAYS AS(Volumen_Compra_Mensual * 0.05))  
 **(PK):** NIF
 
 **Pedidos:** (Codigo_pedido, importe, Fecha_pedido, Nombre_cliente, Forma_pago, NIF_Cliente)  
