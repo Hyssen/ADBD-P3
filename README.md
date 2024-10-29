@@ -2,7 +2,7 @@
 - Airam Herrera Plasencia
 - Enrique Hernández Cabrera
 ## Imagen del modelo relacional
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/Viveros_modelo_ER.png)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/Viveros_modelo_ER.png)
 ## Imagen del diseño relacional
 **PK:** Clave primaria; **FK:** Clave Foránea/ajena
 
@@ -41,35 +41,35 @@
 
 #### CLIENTE
 
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/CLIENTE.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/CLIENTE.PNG)
 
 #### EMPLEADO
 
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/EMPLEADO.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/EMPLEADO.PNG)
 
 #### PEDIDOS
 
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/PEDIDOS.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/PEDIDOS.PNG)
 
 #### PEDIDO_PRODUCTO
 
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/PEDIDO_PRODUCTO.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/PEDIDO_PRODUCTO.PNG)
 
 #### PRODUCTO
 
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/PRODUCTOS.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/PRODUCTOS.PNG)
 
 #### TRABAJA_ZONA
 
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/TRABAJA_ZONA.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/TRABAJA_ZONA.PNG)
 
 #### VIVERO
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/VIVERO.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/VIVERO.PNG)
 
 #### ZONA
 
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/ZONA.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/ZONA.PNG)
 
 #### ZONA_VIVERO
-[![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/ZONA_VIVERO.PNG)
+![Viveros_ADBD](https://github.com/Hyssen/ADBD-P3/blob/main/img/ZONA_VIVERO.PNG)
 
